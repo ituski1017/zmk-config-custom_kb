@@ -1,3 +1,3 @@
-# zmk-config-roBa
+# zmk-config-custom_kb
 
-<img src="keymap-drawer/roBa.svg" >
+<img src="keymap-drawer/custom_kb.svg" >

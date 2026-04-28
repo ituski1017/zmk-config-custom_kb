@@ -1,7 +1,7 @@
-if SHIELD_ROBA_R
+if SHIELD_CUSTOM_KB_R
 
 config ZMK_KEYBOARD_NAME
-    default "roBa_R"
+    default "custom_kb_R"
 
 config ZMK_SPLIT
     default y
@@ -11,10 +11,10 @@ config ZMK_SPLIT_ROLE_CENTRAL
 
 endif
 
-if SHIELD_ROBA_L
+if SHIELD_CUSTOM_KB_L
 
 config ZMK_KEYBOARD_NAME
-    default "roBa_L"
+    default "custom_kb_L"
 
 config ZMK_SPLIT
     default y

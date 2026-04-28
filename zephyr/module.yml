@@ -1,4 +1,4 @@
-name: roBa
+name: custom_kb
 build:
   settings:
     board_root: .

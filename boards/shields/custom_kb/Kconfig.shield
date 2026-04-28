@@ -1,0 +1,5 @@
+config SHIELD_CUSTOM_KB_R
+    def_bool $(shields_list_contains,custom_kb_R)
+
+config SHIELD_CUSTOM_KB_L
+    def_bool $(shields_list_contains,custom_kb_L)

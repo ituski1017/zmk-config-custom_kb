@@ -1,0 +1,8 @@
+file_format: "1"
+id: custom_kb
+name: custom_kb
+type: shield
+url: https://github.com/kumamuk-git/zmk-config-custom_kb
+requires: [seeeduino_xiao_ble]
+features:
+  - keys

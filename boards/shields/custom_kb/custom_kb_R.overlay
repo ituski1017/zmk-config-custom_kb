@@ -1,4 +1,4 @@
-#include "roBa.dtsi"
+#include "custom_kb.dtsi"
 
 &default_transform {
     col-offset = <6>;
